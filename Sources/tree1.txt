@@ -1,0 +1,1 @@
+Temp > 75?0 Temp > 50?0 Is this the Summer?1 Dress warmly1 Enjoy the weather2 Lower Heat2 Turn on A/C
