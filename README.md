@@ -1,2 +1,4 @@
 # Decision-Tree
-Decision Tree is a project that creates a binary tree to be evaluated in the form of a decision tree.  It responds to user input to diagnose and solve a problem.
+Decision Tree is a project that creates a binary tree to be evaluated in the form of a decision tree.  It responds to user input to diagnose and solve a problem.  This program is particularly interesting to me because it interacts with the user to solve a problem in real time.  This is a very simplistic version of something that could possibly be implemented in a doctor's office to assist a nurse in diagnosing.
+
+Decision-Tree contains a single folder called Sources.  It includes the java file, DecisionTree.java, an associated interface, and two files containing the information used to populate a decision tree.  Upon running the file from the main driver, the user will be prompted with a series of questions which will attempt to diagnose a problem, and then return the likeliest possible solution to the problem.  The given examples are imitating a patient being diagnosed at a doctor, and an interaction with a heating and air conditioning system.
